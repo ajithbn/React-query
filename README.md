@@ -1,10 +1,48 @@
-# React + Vite
+# React Application with React Query Features
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a **React application** that demonstrates powerful data fetching and state management using **React Query**.  
+It includes advanced features such as **data fetching**, **mutations**, **pagination**, and **infinite scrolling**.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
--[Visit site](https://reactquery-ajithbn.netlify.app/) please click here
+- ⚡ **React Query Integration**
+  - Efficient server-state management
+  - Automatic caching and refetching
+- 🔄 **Data Fetching**
+  - Fetch API data with loading and error states
+- ✏️ **Mutations**
+  - Create, update, and delete data seamlessly
+- 📄 **Pagination**
+  - Client or server-side pagination with dynamic page loading
+- ♾️ **Infinite Scrolling**
+  - Continuously load data as you scroll for a smoother user experience
+
+---
+
+## 🧰 Tech Stack
+
+- **React (with Hooks)**
+- **TypeScript** (optional, if used)
+- **React Query**
+- **Axios / Fetch API**
+- **React Router DOM**
+- **Vite / CRA / Next.js** (depending on setup)
+
+---
+
+## 📦 Installation
+
+```bash
+# Clone the repository
+git clone https://github.com/ajithbn/React-query.git
+
+# Navigate to the project directory
+cd <React query>
+
+# Install dependencies
+npm install
+# or
+yarn install
+```

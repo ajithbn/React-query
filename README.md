@@ -45,3 +45,5 @@ npm install
 # or
 yarn install
 ```
+
+- Visit site (https://reactquery-ajithbn.netlify.app/)

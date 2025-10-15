@@ -24,11 +24,10 @@ It includes advanced features such as **data fetching**, **mutations**, **pagina
 ## 🧰 Tech Stack
 
 - **React (with Hooks)**
-- **TypeScript** (optional, if used)
 - **React Query**
 - **Axios / Fetch API**
 - **React Router DOM**
-- **Vite / CRA / Next.js** (depending on setup)
+- \*\*Vite
 
 ---
 
